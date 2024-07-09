@@ -1,2 +1,2 @@
 # language-fusion
-Hackathon project comining audio and visual learning
+Hackathon project combining audio and visual learning
